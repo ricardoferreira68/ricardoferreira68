@@ -1,7 +1,7 @@
 - 👋 Olá, sou José Ricardo da Silva Ferreira (@ricardoferreira68)
 - 👀 Estou interessado em Linguagens de Programação, Gestão de Projetos e Ciência de Dados.
 - 🌱 Eu estou trabalhando atualmente com análise de dados com Python aplcada a gestão de Instituição de Ensino Superior.
-- 💞️ Estou procurando colacorar com aplicações inteligentes para Instituições de Ensino Superior.
+- 💞️ Estou procurando colaborar com aplicações inteligentes para Instituições de Ensino Superior.
 - 📫 Entre em contato via e-mail jrsf68@gmail.com
 
 <!---
